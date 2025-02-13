@@ -1,4 +1,4 @@
-const messages = ["Sigurado kaba?", "Kapal ng mukha man!", "Wag kupal man", "Last mo na yan kups!"];
+const messages = ["Sigurado kaba?", "Kapal ng mukha man!", "Wag kupal man", "Last mo na yan kups!", "Pakipot pa talaga!", "Choosy pa rin?", "Last mo na yan man!"];
 let messageIndex = 0;
 
 function handleNoClick() {
